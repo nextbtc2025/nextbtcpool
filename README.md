@@ -81,7 +81,7 @@ rpcallowip=127.0.0.1
 # The RPC port
 rpcport=8554
 # Set a fallback fee in case fee estimation fails
-fallbackfee=0.00001
+fallbackfee=0.0001
 # Automatically load the specified pool wallet on startup
 wallet=pool_hot_wallet
 ```
@@ -285,7 +285,7 @@ rpcallowip=127.0.0.1
 # RPC端口
 rpcport=8554
 # 设定一个默认的交易费，以防费用估算失败
-fallbackfee=0.00001
+fallbackfee=0.0001
 # 启动时自动加载指定的矿池钱包
 wallet=pool_hot_wallet
 ```
